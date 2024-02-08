@@ -1,0 +1,40 @@
+img{
+    width: 150px;
+    height: 100px;
+}
+table{
+    text-align:  center;
+    padding: 5px;
+    text-align: center;
+}
+.ad{
+    font-size: 45px !important;
+    color: white !important;
+    margin: 30px;
+    background-color: black;
+}
+.ad-btn{
+    width: 200px;
+    height: 60px;
+    font-size: 25px !important;
+}
+.tr-1{
+    background-color: black !important;
+    color: white !important;
+    font-size: 35px !important;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.th-1{
+    background-color: rgb(183, 211, 155) !important;
+    color: black !important;
+    font-size: 25px !important;
+    text-align: center;
+    padding-top: 10px !important;
+    font-weight: 900;
+}
+.ed-btn{
+    display: block !important;
+    width: 120px;
+    margin: 20px;
+}
