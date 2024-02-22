@@ -151,6 +151,15 @@ async function ViewDishes() {
 
 }
 
+function ValidateData(){
+    if(dish.value!="" &&  imageUrl !=""){
+        return true
+    }
+    else{
+        return false
+    }
+
+}
 
 ViewDishes()
 
